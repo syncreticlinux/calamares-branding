@@ -1,0 +1,22 @@
+---
+componentName:  syncretic
+
+strings:
+    productName:         Syncretic Linux
+    shortProductName:    Syncretic
+    version:             19.04
+    shortVersion:        19.04
+    versionedName:       Syncretic 19.04
+    shortVersionedName:  Syncretic 19.04
+    bootloaderEntryName: Syncretic
+
+images:
+    productLogo:         "syncretic-logo.png"
+    productIcon:         "syncretic-logo.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#292F34"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#8497A7"
